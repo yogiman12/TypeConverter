@@ -12,6 +12,8 @@ this program convert text with **(CTRL + Q)**
 ```bash
 python clip.py
 ```
+--- 
+![Logo](https://drive.google.com/file/d/1EoPu8mSs-QBywh-H6fIm1e1pGqAuGZyB/view)
 
 ## Contributing
 
