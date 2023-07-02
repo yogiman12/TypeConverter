@@ -12,9 +12,11 @@ this program convert text with **(CTRL + Q)**
 ```bash
 python clip.py
 ```
---- 
-![Logo](https://drive.google.com/file/d/1EoPu8mSs-QBywh-H6fIm1e1pGqAuGZyB/view)
 
+--- 
+<div align="center">
+    <img src="https://github.com/yogiman12/TypeConverter/assets/89304486/77251bb3-213d-488c-a6be-9b505eb720a4">
+</div>
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
